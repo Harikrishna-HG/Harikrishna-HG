@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/harish98685192?t=b3o9fxwow3grf2n0kjql8w&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/harish98685192?t=b3o9fxwow3grf2n0kjql8w&s=09" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://np.linkedin.com/in/harikrishna-gautam-5000ab22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/harikrishna-gautam-5000ab22b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/harishgautam2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="harishgautam2004" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/gautam.harish.18?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gautam.harish.18?mibextid=zbwkwl" height="30" width="40" /></a>
