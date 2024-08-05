@@ -1,4 +1,3 @@
-![logo](https://github.com/Harikrishna-HG/Harikrishna-HG/blob/main/github-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Harikrishna Gautam</h1>
 <h3 align="center">A passionate full-stack web developer from Nepal.</h3>
