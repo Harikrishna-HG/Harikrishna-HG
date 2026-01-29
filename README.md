@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Transportation System](https://github.com/Harikrishna-HG/BUS.git)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **JavaScript,C#,MVC,ASP.NET**
 
