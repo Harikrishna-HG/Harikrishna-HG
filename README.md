@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React,Java,C++,C,JavaScript**
+- 💬 Ask me about **JavaScript,C#,MVC,ASP.NET**
 
-- 📫 How to reach me **harishgautam2004@gmail.com**
+- 📫 How to reach me **hrkshnagtm@gmail.com.com**
 
 - ⚡ Fun fact **I am funny**
 
