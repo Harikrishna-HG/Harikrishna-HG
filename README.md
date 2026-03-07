@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript,C#,MVC,ASP.NET**
 
-- 📫 How to reach me **hrkshnagtm@gmail.com.com**
+- 📫 How to reach me **hrkshnagtm@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
