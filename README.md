@@ -77,6 +77,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikrishna-hg&" alt="harikrishna-hg" /></p>
